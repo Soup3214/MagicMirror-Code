@@ -48,7 +48,7 @@ let config = {
 		{
 			module: "calendar",
 			header: "US Holidays",
-			position: "top_left",
+			position: "top_center",
 			config: {
 				calendars: [
 					{
@@ -109,7 +109,7 @@ let config = {
 			module: 'MMM-BinaryClock',
 			position:"top_left",
 			config: {
-				size: 10,
+				size: 20,
 			}
 		}
 
